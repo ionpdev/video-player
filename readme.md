@@ -1,1 +1,1 @@
-Book Keeper App made with Pure JS and HTML/CSS
+Video Player App made with Pure JS and HTML/CSS
